@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luchoweb&label=Profile%20views&color=0e75b6&style=flat" alt="luchoweb" /> </p>
 
-- 🌱 I’m currently learning **Node.js (advanced) and TypeScript**
+- 🌱 I’m currently learning **Python and Django**
 
 - 📝 I regularly write articles on [https://hablemosdecodigo.com](https://hablemosdecodigo.com)
 
