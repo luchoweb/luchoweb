@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Lucho Web</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://hablemosdecodigo.com](https://hablemosdecodigo.com)
+- 📝 I regularly write articles on [Hablemos de Código](https://hablemosdecodigo.com)
 
 - 💬 Ask me about **React, Node, PHP, SASS, WordPress, Woocommerce**
 
