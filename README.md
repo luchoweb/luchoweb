@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Lucho Web</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** 
 
 - 📝 I regularly write articles on [Hablemos de Código](https://hablemosdecodigo.com)
 
