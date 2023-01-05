@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Lucho Web</h1>
+<h1 align="center">Hi there 👋 I'm Lucho Web</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
 - 🌱 I am currently learning **Python** 
