@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Lucho Web</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I am currently learning **Python** 
+- 🌱 I am currently learning **Python & AI** 
 
 - 📝 I regularly write articles on [Hablemos de Código](https://hablemosdecodigo.com)
 
