@@ -1,6 +1,8 @@
 <h1 align="center">Hi! 👋 I'm Lucho Web</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<p align="center">Under construction: https://luchoweb.dev</p>
+<p align="center">Website: https://luchoweb.dev</p>
+
+<hr />
 
 - 🌱 I am currently learning **Python & AI** 
 
