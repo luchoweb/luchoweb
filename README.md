@@ -6,8 +6,6 @@
 
 - 🌱 I am currently learning **Python & AI** 
 
-- 📝 I regularly write articles on [Hablemos de Código](https://hablemosdecodigo.com)
-
 - 💬 Ask me about **JavaScript, React, Node.js, PHP, WordPress, Woocommerce and Shopify**
 
 <h3 align="left">Connect with me:</h3>
