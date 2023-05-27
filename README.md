@@ -4,7 +4,7 @@
 
 <hr />
 
-- 🌱 I am currently learning **Python & AI** 
+- 🌱 I'm currently learning **Python & AI** 
 
 - 💬 Ask me about **JavaScript, React, Node.js, PHP, WordPress, Woocommerce and Shopify**
 
