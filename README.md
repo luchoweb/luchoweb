@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋 I'm Lucho Web</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate Tech Lead &amp; Full-Stack Developer</h3>
 <p align="center">Website: https://luchoweb.dev</p>
 
 <hr />
 
-- 🌱 I'm currently learning **Python & AI** and also abour leadership.
+- 🌱 I'm currently learning **AI** and also about leadership.
 
 - 💬 Ask me about **JavaScript, React, Node.js, PHP, WordPress, Woocommerce and Shopify**
 
