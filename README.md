@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Lucho Web</h1>
+<h1 align="center">Hi there 👋 I'm Lucho Web</h1>
 <h3 align="center">A passionate Tech Lead &amp; Full-Stack Developer</h3>
 <p align="center">Website: https://luchoweb.dev</p>
 
