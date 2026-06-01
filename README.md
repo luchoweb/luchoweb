@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Lucho Web</h1>
-<h3 align="center">A passionate Tech Lead &amp; Full-Stack Developer</h3>
+<h3 align="center">A passionate AI Developer</h3>
 <p align="center">Website: https://luchoweb.dev</p>
 
 <hr />
