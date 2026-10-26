@@ -52,7 +52,7 @@ web: https://luchoweb.dev
 ## 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,postgres,docker,git,github,vercel&perline=12" alt="Stack tecnológico" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,postgres,docker,git,github,vercel&amp;perline=12" alt="Stack tecnológico: TypeScript, JavaScript, React, Next.js, Node.js, Python, Tailwind CSS, PostgreSQL, Docker, Git, GitHub y Vercel" />
 </p>
 
 ## 📊 Actividad en GitHub
