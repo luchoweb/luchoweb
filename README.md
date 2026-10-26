@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://luchoweb.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Hola+%F0%9F%91%8B+soy+Lucho+Web;L%C3%ADder+T%C3%A9cnico+AI-First+Full+Stack;Construyo+producto+con+IA+en+el+centro;Aprendiendo+a+liderar+equipos+que+crecen" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Hola+%F0%9F%91%8B+soy+Lucho+Web;L%C3%ADder+T%C3%A9cnico+AI-First+Full+Stack;Construyo+producto+con+IA+en+el+centro;Liderarando+equipos+que+crecen" alt="Typing SVG" />
   </a>
 </p>
 
