@@ -58,8 +58,8 @@ web: https://luchoweb.dev
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luchoweb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchoweb&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luchoweb&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8B5CF6&amp;icon_color=06b6d4&amp;text_color=c9d1d9&amp;locale=es&amp;cache_seconds=86400" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchoweb&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8B5CF6&amp;text_color=c9d1d9&amp;locale=es&amp;cache_seconds=86400" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
