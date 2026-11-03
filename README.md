@@ -32,7 +32,7 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 **Certificaciones** &nbsp;·&nbsp; Software Project Leader Professional (SPLPC&trade;) &nbsp;·&nbsp; Scrum Foundations (SFPC&trade;)<br />
 **Formación** &nbsp;·&nbsp; Ingeniería de Software (en curso)<br />
-**Herramientas** &nbsp;·&nbsp; AI (Claude, ChatGPT, Gemini, Codex, Github Copilot) &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Angular &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker
+**Herramientas** &nbsp;·&nbsp; AI (Claude, ChatGPT, Gemini, Codex, Github Copilot) &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Angular &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Otras...
 
 <br />
 
