@@ -30,7 +30,8 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 <br />
 
-**Formación** &nbsp;·&nbsp; Scrum Foundations &nbsp;·&nbsp; Ingeniería de Software (en curso)<br />
+**Certificaciones** &nbsp;·&nbsp; Software Project Leader Professional (CertiProf) &nbsp;·&nbsp; Scrum Foundations<br />
+**Formación** &nbsp;·&nbsp; Ingeniería de Software (en curso)<br />
 **Herramientas** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker
 
 <br />
