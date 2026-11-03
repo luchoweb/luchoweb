@@ -1,46 +1,40 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img src="./assets/header-light.svg" alt="Lucho Web · Liderazgo técnico · Inteligencia artificial · Negocio" width="100%" />
-</picture>
+<h1>Lucho Web</h1>
 
-<br />
+<p><sub>LÍDER TÉCNICO AI-FIRST &nbsp;·&nbsp; COLOMBIA</sub></p>
 
-**Líder técnico AI-First.** Conecto los objetivos del negocio con equipos que construyen producto, y uso la inteligencia artificial para que ese producto llegue más lejos.
+## Llevo la IA a producción.
+
+Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fondo, no solo el pedido, con la inteligencia artificial en el centro y un equipo que entrega a tiempo.
 
 <br />
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Liderazgo</h3>
-      Formo equipos que entregan con calidad y autonomía. Defino arquitectura, reviso código y acompaño el crecimiento de cada persona con feedback y confianza.
+      <sub>01</sub><br />
+      <b>Liderazgo</b><br /><br />
+      Formo equipos que entregan con calidad y autonomía. Defino arquitectura, reviso código y acompaño a cada persona a crecer.
     </td>
     <td width="33%" valign="top">
-      <h3>Inteligencia artificial</h3>
-      Diseño productos donde la IA es parte del núcleo, no un agregado: modelos de lenguaje, agentes y automatización en flujos reales.
+      <sub>02</sub><br />
+      <b>Inteligencia artificial</b><br /><br />
+      La IA como núcleo del producto, no como agregado: modelos de lenguaje, agentes y automatización en flujos reales.
     </td>
     <td width="33%" valign="top">
-      <h3>Negocio</h3>
-      Traduzco objetivos en prioridades técnicas y entregas medibles. Trabajo con Scrum para mostrar valor en iteraciones cortas.
+      <sub>03</sub><br />
+      <b>Negocio</b><br /><br />
+      Del problema de fondo a entregas medibles: productos digitales y MVP que llegan a producción a tiempo.
     </td>
   </tr>
 </table>
 
 <br />
 
-### Formación
-
-- Certificación **Scrum Foundations**
-- **Ingeniería de Software**, en curso
-- Formación continua en **liderazgo de equipos técnicos**
-
-### Herramientas
-
-TypeScript · React · Next.js · Node.js · Python · PostgreSQL · Docker · Vercel
+**Formación** &nbsp;·&nbsp; Scrum Foundations &nbsp;·&nbsp; Ingeniería de Software (en curso)<br />
+**Herramientas** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker
 
 <br />
 
 > Primero las personas, luego el código. La IA nos ayuda a llegar más lejos; el equipo nos ayuda a llegar juntos.
 
-<sub>[luchoweb.dev](https://luchoweb.dev) · [LinkedIn](https://linkedin.com/in/luchowebdev)</sub>
+<sub>[luchoweb.dev](https://luchoweb.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/luchowebdev)</sub>
