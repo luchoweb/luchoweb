@@ -11,6 +11,10 @@
 <line x1="24" x2="471" y1="52" y2="52" stroke="#eaeef2"/>
 <clipPath id="c"><rect x="24" y="70" width="447" height="8" rx="4"/></clipPath>
 <rect x="24" y="70" width="447" height="8" rx="4" fill="#eaeef2"/>
-<g clip-path="url(#c)"></g>
-<text x="24" y="110" class="l">Sin datos todavía</text>
+<g clip-path="url(#c)"><rect x="24.00" y="70" width="83.98" height="8" fill="#1f2328"/><rect x="109.98" y="70" width="63.50" height="8" fill="#424a53"/><rect x="175.48" y="70" width="62.59" height="8" fill="#6e7781"/><rect x="240.07" y="70" width="58.62" height="8" fill="#8c959f"/><rect x="300.69" y="70" width="168.31" height="8" fill="#afb8c1"/></g>
+<rect x="24.0" y="99" width="10" height="10" rx="2" fill="#1f2328"/><text x="42.0" y="108" class="s">JavaScript</text><text x="223.5" y="108" class="m" text-anchor="end">19.2%</text>
+<rect x="247.5" y="99" width="10" height="10" rx="2" fill="#424a53"/><text x="265.5" y="108" class="s">CSS</text><text x="447.0" y="108" class="m" text-anchor="end">14.7%</text>
+<rect x="24.0" y="125" width="10" height="10" rx="2" fill="#6e7781"/><text x="42.0" y="134" class="s">PHP</text><text x="223.5" y="134" class="m" text-anchor="end">14.4%</text>
+<rect x="247.5" y="125" width="10" height="10" rx="2" fill="#8c959f"/><text x="265.5" y="134" class="s">Python</text><text x="447.0" y="134" class="m" text-anchor="end">13.6%</text>
+<rect x="24.0" y="151" width="10" height="10" rx="2" fill="#afb8c1"/><text x="42.0" y="160" class="s">Otros</text><text x="223.5" y="160" class="m" text-anchor="end">38.1%</text>
 </svg>
