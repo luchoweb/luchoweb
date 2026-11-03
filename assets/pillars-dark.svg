@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Liderazgo: formo equipos que entregan con calidad y autonomía. Inteligencia artificial: la IA como núcleo del producto. Negocio: del problema de fondo a entregas medibles y a tiempo.">
+<style>
+ .n { font: 500 12px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace; fill: #475569; letter-spacing: 2px; }
+ .t { font: 600 19px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #f8fafc; letter-spacing: -.3px; }
+ .p { font: 400 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #94a3b8; }
+</style>
+<rect x=".5" y=".5" width="999" height="199" rx="12" fill="#020617" stroke="#1e293b"/>
+<text x="40" y="58" class="n">01</text><line x1="40" x2="64" y1="72" y2="72" stroke="#e2e8f0" stroke-width="1.5"/><text x="40" y="106" class="t">Liderazgo</text><text x="40" y="134" class="p">Formo equipos que entregan</text><text x="40" y="156" class="p">con calidad y autonomía.</text><line x1="333" x2="333" y1="32" y2="168" stroke="#1e293b"/><text x="373" y="58" class="n">02</text><line x1="373" x2="397" y1="72" y2="72" stroke="#e2e8f0" stroke-width="1.5"/><text x="373" y="106" class="t">Inteligencia artificial</text><text x="373" y="134" class="p">La IA como núcleo del</text><text x="373" y="156" class="p">producto, no como agregado.</text><line x1="667" x2="667" y1="32" y2="168" stroke="#1e293b"/><text x="707" y="58" class="n">03</text><line x1="707" x2="731" y1="72" y2="72" stroke="#e2e8f0" stroke-width="1.5"/><text x="707" y="106" class="t">Negocio</text><text x="707" y="134" class="p">Del problema de fondo a</text><text x="707" y="156" class="p">entregas medibles y a tiempo.</text>
+</svg>
