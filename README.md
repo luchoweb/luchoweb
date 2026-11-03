@@ -8,7 +8,7 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 <br />
 
-<p><img src="https://img.shields.io/badge/CertiProf-Software_Project_Leader_Professional-161b22?style=flat-square&labelColor=0d1117" alt="CertiProf Software Project Leader Professional (SPLPC)" /> <img src="https://img.shields.io/badge/CertiProf-Scrum_Foundations-161b22?style=flat-square&labelColor=0d1117" alt="CertiProf Scrum Foundations (SFPC)" /></p>
+<p><a href="https://profiles.badgeclaimed.com/luchoweb/badges/urn:uuid:c320a5a7-b928-48e9-891e-bf7876dd8fbd.html"><img src="https://img.shields.io/badge/CertiProf-Software_Project_Leader_Professional-161b22?style=flat-square&labelColor=0d1117" alt="CertiProf Software Project Leader Professional (SPLPC)" /></a> <a href="https://www.credly.com/badges/46412f0a-4005-4189-adb8-3151d5cc23e3"><img src="https://img.shields.io/badge/CertiProf-Scrum_Foundations-161b22?style=flat-square&labelColor=0d1117" alt="CertiProf Scrum Foundations (SFPC)" /></a></p>
 
 <br />
 
@@ -50,7 +50,7 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 #### Formación y herramientas
 
-**Certificaciones** &nbsp;·&nbsp; Software Project Leader Professional (SPLPC&trade;) &nbsp;·&nbsp; Scrum Foundations (SFPC&trade;)<br />
+**Certificaciones** &nbsp;·&nbsp; [Software Project Leader Professional (SPLPC&trade;)](https://profiles.badgeclaimed.com/luchoweb/badges/urn:uuid:c320a5a7-b928-48e9-891e-bf7876dd8fbd.html) &nbsp;·&nbsp; [Scrum Foundations (SFPC&trade;)](https://www.credly.com/badges/46412f0a-4005-4189-adb8-3151d5cc23e3)<br />
 **Formación** &nbsp;·&nbsp; Ingeniería de Software (en curso)
 
 <p><img src="https://img.shields.io/badge/IA-161b22?style=flat-square" alt="Inteligencia artificial" /> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/%2B_otras-161b22?style=flat-square" alt="Otras herramientas" /></p>
