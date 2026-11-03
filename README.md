@@ -50,9 +50,12 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 <br />
 
-#### Formación y herramientas
+#### Formación
 
-**Formación** &nbsp;·&nbsp; Técnico en Desarrollo Web (SENA) &nbsp;·&nbsp; Ingeniería de Software (en curso)
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/graduation-dark.svg" /><img src="./assets/icons/graduation-light.svg" width="28" height="28" alt="" align="absmiddle" /></picture> &nbsp;<b>Ingeniería de Software</b> &nbsp;<img src="https://img.shields.io/badge/en_curso-161b22?style=flat-square" alt="En curso" align="absmiddle" /></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/code-dark.svg" /><img src="./assets/icons/code-light.svg" width="20" height="20" alt="" align="absmiddle" /></picture> &nbsp;Técnico en Desarrollo Web &nbsp;<sub>SENA</sub></p>
+
+#### Herramientas
 
 <p><img src="https://img.shields.io/badge/IA-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjQiIHk9IjgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxMiIgcng9IjMiLz48cGF0aCBkPSJNMTIgNHY0Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIzIiByPSIxIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjE0IiByPSIxLjIiIGZpbGw9IndoaXRlIi8%2BPGNpcmNsZSBjeD0iMTUiIGN5PSIxNCIgcj0iMS4yIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0yIDEzdjNNMjIgMTN2MyIvPjwvc3ZnPg%3D%3D" alt="Inteligencia artificial" /> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/%2B_otras-161b22?style=flat-square" alt="Otras herramientas" /></p>
 
