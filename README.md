@@ -52,7 +52,7 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 #### Formación
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/graduation-dark.svg" /><img src="./assets/icons/graduation-light.svg" width="28" height="28" alt="" align="absmiddle" /></picture> &nbsp;<b>Ingeniería de Software</b> &nbsp;<img src="https://img.shields.io/badge/en_curso-161b22?style=flat-square" alt="En curso" align="absmiddle" /></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/graduation-dark.svg" /><img src="./assets/icons/graduation-light.svg" width="28" height="28" alt="" align="absmiddle" /></picture> &nbsp;<b>Ingeniería de Software</b>&nbsp;<sub>POLI</sub> &nbsp;<img src="https://img.shields.io/badge/en_curso-161b22?style=flat-square" alt="En curso" align="absmiddle" /></p>
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/code-dark.svg" /><img src="./assets/icons/code-light.svg" width="20" height="20" alt="" align="absmiddle" /></picture> &nbsp;Técnico en Desarrollo Web &nbsp;<sub>SENA</sub></p>
 
 #### Herramientas
