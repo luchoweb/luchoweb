@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Lenguajes más usados">
+<style>
+  .t { font: 600 14px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1f2328; letter-spacing: .2px; }
+  .l { font: 400 12px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #656d76; }
+  .v { font: 600 20px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1f2328; }
+  .s { font: 400 12px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1f2328; }
+  .m { font: 400 11px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace; fill: #656d76; }
+</style>
+<rect x=".5" y=".5" width="494" height="194" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="36" class="t">Lenguajes más usados</text>
+<line x1="24" x2="471" y1="52" y2="52" stroke="#eaeef2"/>
+<clipPath id="c"><rect x="24" y="70" width="447" height="8" rx="4"/></clipPath>
+<rect x="24" y="70" width="447" height="8" rx="4" fill="#eaeef2"/>
+<g clip-path="url(#c)"></g>
+<text x="24" y="110" class="l">Sin datos todavía</text>
+</svg>
