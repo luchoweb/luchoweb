@@ -61,6 +61,6 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 <br />
 
-> Primero las personas, luego el código. La IA nos ayuda a llegar más lejos; el equipo nos ayuda a llegar juntos.
+> Primero las personas, luego el código. La IA nos ayuda a llegar más lejos; el equipo nos ayuda a llegar juntos. 
 
 <sub>[luchoweb.dev](https://luchoweb.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/luchowebdev)</sub>
