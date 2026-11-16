@@ -14,6 +14,14 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 <br />
 
+#### Libros
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/book-dark.svg" /><img src="./assets/icons/book-light.svg" width="28" height="28" alt="" align="absmiddle" /></picture> &nbsp;<a href="https://amazon.com/author/luchoweb"><img src="https://img.shields.io/badge/Libro-IA_que_factura-161b22?style=for-the-badge&labelColor=0d1117" alt="Libro: IA que factura" /></a> <a href="https://amazon.com/author/luchoweb"><img src="https://img.shields.io/badge/Libro-Potencia_tu_talento_con_IA-161b22?style=for-the-badge&labelColor=0d1117" alt="Libro: Potencia tu talento con IA" /></a></p>
+
+<p><sub>Disponibles en mi <a href="https://amazon.com/author/luchoweb">página de autor en Amazon</a>.</sub></p>
+
+<br />
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -63,4 +71,4 @@ Convierto ideas en productos reales en poco tiempo. Resuelvo el problema de fond
 
 > Primero las personas, luego el código. La IA nos ayuda a llegar más lejos; el equipo nos ayuda a llegar juntos. 
 
-<sub>[luchoweb.dev](https://luchoweb.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/luchowebdev)</sub>
+<sub>[luchoweb.dev](https://luchoweb.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/luchowebdev) &nbsp;·&nbsp; [Amazon](https://amazon.com/author/luchoweb)</sub>
